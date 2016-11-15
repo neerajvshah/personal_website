@@ -1,0 +1,31 @@
+body{
+  padding-top: 50px;
+}
+
+.navbar{
+  background-color:#FF8026;
+}
+
+.nav-item > a{
+  color: white !important;
+}
+
+.nav-item:hover{
+    background-color:#07889B;
+}
+
+#top_row{
+  background-color:#90C2C7;
+}
+
+#top_cont{
+  margin:0px;
+}
+
+#inner > h1{
+  font-family: 'Alfa Slab One', sans-serif;
+  font-size:80px;
+  color:white;
+  text-shadow: 4px 4px #000;
+  margin: 40px 0px 40px 0px;
+}
